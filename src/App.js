@@ -6,7 +6,7 @@ import ReactRoundedImage from "react-rounded-image";
 
 
 import Vid1 from "./videos/vid1.mp4";
-import Vid2 from "./videos/vid2.mp4";
+import Vid21 from "./videos/Vid21.mp4";
 import Vid3 from "./videos/vid3.mp4";
 
 import "./App.css";
@@ -25,7 +25,7 @@ export default function App() {
     { img1:"",
       channel: "bbb",
       song: "kya karu",
-      url: Vid2,
+      url: Vid21,
       likes: "3",
       comment: "22",
       shares: "23",
